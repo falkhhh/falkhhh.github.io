@@ -3,11 +3,11 @@
 title: Profile
 
 # Name pronunciation (optional)
-name_pronunciation: Falkhan Syahruzaki
+name_pronunciation: Falkhan Sahruzaki
 
 # Full name (for SEO)
 first_name: Falkhan
-last_name: Syahruzaki
+last_name: Sahruzaki
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: jungler
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -52,10 +52,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ngaliyan,Semarang
+    institution: Muhammadiyah Institute of Statistical Technology
+    date_start: 2023-10-26
+    date_end: 2027-10-26
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
