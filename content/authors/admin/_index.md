@@ -3,7 +3,7 @@
 title: Falkhan Sahruzzaki
 
 # Name pronunciation (optional)
-name_pronunciation: University Student
+name_pronunciation: UniversityStudent
 
 # Full name (for SEO)
 first_name: Falkhan
