@@ -163,5 +163,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello!, let me introduce myself, my name is Falkhan Sahruzzaki, i was born on November 10 2004, I am an energetic and enthusiastic student who is studying undergraduate software engineering at the Muhammadiyah Semarang Institute of Statistics and Business Technology. Trying to hone skills in the field of IT programming, and start a new world in organizations..
