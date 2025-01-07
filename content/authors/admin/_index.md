@@ -73,7 +73,7 @@ work:
     company_logo: ''
     date_start: 2020-02-01
     date_end: 2020-09-01
-    summary: |
+    summary: |2-
       Responsibilities include:
      I worked as a Ninja Express package courier when COVID-19 was rife in my area
 # Skills
