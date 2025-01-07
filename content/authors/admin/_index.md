@@ -57,29 +57,25 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: MAGELANG CITY TARUNG DERAJAT ATHLETES
+    company_name: DISPORA MAGELANG
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2018-05-01
+    date_end: 2021-05-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      I work as an athlete, I participated in and won several city and provincial level championships such as POPDA, POPNAS, KEJURDA, PORPROV, PRAPORPROV, and DULONGMAS
+      
+  - position: NINJA EXPRESS FREELANCE PACKAGE COURIER
+    company_name: NINJA EXPRESS
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-02-01
+    date_end: 2020-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+     I worked as a Ninja Express package courier when COVID-19 was rife in my area
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
