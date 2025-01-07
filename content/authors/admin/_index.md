@@ -63,8 +63,7 @@ work:
     company_logo: ''
     date_start: 2018-05-01
     date_end: 2021-05-01
-    summary: |2-
-      Responsibilities include:
+    summary:  
       I work as an athlete, I participated in and won several city and provincial level championships such as POPDA, POPNAS, KEJURDA, PORPROV, PRAPORPROV, and DULONGMAS
       
   - position: NINJA EXPRESS FREELANCE PACKAGE COURIER
@@ -73,8 +72,7 @@ work:
     company_logo: ''
     date_start: 2020-02-01
     date_end: 2020-09-01
-    summary: |2-
-      Responsibilities include:
+    summary:
      I worked as a Ninja Express package courier when COVID-19 was rife in my area
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
