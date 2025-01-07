@@ -41,7 +41,7 @@ education:
     date_start: 2023-10-26
     date_end: 2027-10-26
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      I am currently a student at Itesa Muhammadiyah Semarang entering the 3rd semester.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -50,12 +50,7 @@ education:
     date_start: 2020-06-01
     date_end: 2023-06-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I am a graduate of Madrasah Aliyah Negeri 1 Magelang, majoring in languages ​​in 2023.
 work:
   - position: MAGELANG CITY TARUNG DERAJAT ATHLETES
     company_name: DISPORA MAGELANG
