@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Profile
+title: Falkhan Sahruzzaki
 
 # Name pronunciation (optional)
-name_pronunciation: Falkhan Sahruzaki
+name_pronunciation: University Student
 
 # Full name (for SEO)
 first_name: Falkhan
@@ -18,14 +18,6 @@ superuser: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Role/position/tagline
-role: jungler
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
