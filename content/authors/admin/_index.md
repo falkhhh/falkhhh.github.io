@@ -52,8 +52,8 @@ education:
     summary: |
       I am a graduate of Madrasah Aliyah Negeri 1 Magelang, majoring in languages ​​in 2023.
 work:
-  - position: MAGELANG CITY TARUNG DERAJAT ATHLETES
-    company_name: DISPORA MAGELANG
+  - position: Magelang City Tarung Derajat Athletes
+    company_name: DISPORA Magelang
     company_url: ''
     company_logo: ''
     date_start: 2018-05-01
@@ -61,8 +61,8 @@ work:
     summary:  
       I work as an athlete, I participated in and won several city and provincial level championships such as POPDA, POPNAS, KEJURDA, PORPROV, PRAPORPROV, and DULONGMAS
       
-  - position: NINJA EXPRESS FREELANCE PACKAGE COURIER
-    company_name: NINJA EXPRESS
+  - position: Ninja Express Freelance Package Courier
+    company_name: Ninja Express
     company_url: ''
     company_logo: ''
     date_start: 2020-02-01
