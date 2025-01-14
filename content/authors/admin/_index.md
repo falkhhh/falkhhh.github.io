@@ -31,9 +31,9 @@ profiles:
     url: https://github.com/falkhhh
  
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vidiography
+  - create songs
+  - Speaking in front of the public
 
 education:
   - area: Software Engginering

@@ -1,7 +1,7 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Suruh Falkhan
+date: 2024-11-26
+external_link: https://drive.google.com/file/d/1g2vjqbUMA74Pb0EIJ8swwCwGqixmyicF/view?usp=sharing
 tags:
   - Hugo
   - Wowchemy
