@@ -119,8 +119,8 @@ awards:
   - title: 1st place in the 2021 Dulongmas district Tarung Derajat
     url: https://youtu.be/skKbihxUs60?si=nlyScsjqXB5Sa9CF
     date: '2021-11-25'
-    awarder: Koni Jateng
-    icon: Koni Jateng
+    awarder: Koni Kota Magelang
+    icon: Koni Kota Magelang
     summary: |
       Fallkhan Sahruzzaki is a talented athlete who has achieved brilliant achievements in the world of sports, especially in the Tarung Derajat sport. In 2021, Fallkhan recorded his name as the winner in the Dulongmas Regional Sports Week (Porwil), a prestigious competition involving the best athletes from Central Java, DIY and surrounding areas.This victory not only shows Fallkhan's dedication and hard work in training, but also reflects his high fighting spirit, in accordance with the Tarung Derajat philosophy, namely "I'm friendly doesn't mean I'm afraid, I submit doesn't mean I lose." With his physical abilities, honed fighting techniques and mental steel, Fallkhan was able to defeat his opponents and bring home a winning medal.This success is clear proof that Fallkhan is a promising young athlete, bringing pride to himself, his family and the region he represents. This victory also became a motivation for Fallkhan to continue to develop and make achievements at a higher level.
   - title: Blockchain Fundamentals
