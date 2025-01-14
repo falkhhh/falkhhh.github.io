@@ -116,13 +116,17 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 1st place in the 2021 Dulongmas district Tarung Derajat
+    url: https://youtu.be/skKbihxUs60?si=nlyScsjqXB5Sa9CF
+    date: '2021-11-25'
+    awarder: Koni Magelang
+    icon: Koni Magelang
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Fallkhan Sahruzzaki is a talented athlete who has achieved brilliant achievements in the world of sports, especially in the Tarung Derajat sport. In 2021, Fallkhan recorded his name as the winner in the Dulongmas Regional Sports Week (Porwil), a prestigious competition involving the best athletes from Central Java, DIY and surrounding areas.
+
+This victory not only shows Fallkhan's dedication and hard work in training, but also reflects his high fighting spirit, in accordance with the Tarung Derajat philosophy, namely "I'm friendly doesn't mean I'm afraid, I submit doesn't mean I lose." With his physical abilities, honed fighting techniques and mental steel, Fallkhan was able to defeat his opponents and bring home a winning medal.
+
+This success is clear proof that Fallkhan is a promising young athlete, bringing pride to himself, his family and the region he represents. This victory also became a motivation for Fallkhan to continue to develop and make achievements at a higher level.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
