@@ -123,16 +123,13 @@ awards:
     icon: Koni Kota Magelang
     summary: |
       Fallkhan Sahruzzaki is a talented athlete who has achieved brilliant achievements in the world of sports, especially in the Tarung Derajat sport. In 2021, Fallkhan recorded his name as the winner in the Dulongmas Regional Sports Week (Porwil), a prestigious competition involving the best athletes from Central Java, DIY and surrounding areas.This victory not only shows Fallkhan's dedication and hard work in training, but also reflects his high fighting spirit, in accordance with the Tarung Derajat philosophy, namely "I'm friendly doesn't mean I'm afraid, I submit doesn't mean I lose." With his physical abilities, honed fighting techniques and mental steel, Fallkhan was able to defeat his opponents and bring home a winning medal.This success is clear proof that Fallkhan is a promising young athlete, bringing pride to himself, his family and the region he represents. This victory also became a motivation for Fallkhan to continue to develop and make achievements at a higher level.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: 4th place winner in the 2020 virtual Popda Tarung Derajat
+    url: https://radarsemarang.jawapos.com/sport/721379414/kota-magelang-sabet-enam-medali-di-popda-virtual
+    date: '2021-05-02'
+    awarder: radarsemarang
+    icon: radarsemarang
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Fallkhan Sahruzzaki is a talented and enthusiastic young athlete in the sport of Tarung Derajat, particularly in the art of movement category. In 2020, Fallkhan achieved a remarkable milestone by securing 4th place in the Regional Student Sports Week (POPDA), which was held virtually. This competition presented a unique challenge, as the virtual format required exceptional adaptability in terms of technique, visual performance, and precision of movements evaluated through a digital medium. Through dedication and rigorous training, Fallkhan showcased an impressive combination of strength, speed, and fluidity—key elements of Tarung Derajat.Despite facing tough competition, this achievement highlights Fallkhan’s outstanding ability to maintain focus and consistency. It serves as a stepping stone for further honing his skills and achieving even greater success in the future. This accomplishment reflects Fallkhan’s resilient character, making him an inspiration for peers and other young athletes.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
