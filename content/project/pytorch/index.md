@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-"Lawasku: A Place to Meet Sellers and Buyers, It's All Here!"
+"Lawasku A Place to Meet Sellers and Buyers, It's All Here!"
 
 <!--more-->
