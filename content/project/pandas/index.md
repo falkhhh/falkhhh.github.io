@@ -1,7 +1,7 @@
 ---
 title: Suruh Falkhan
 date: 2024-11-26
-external_link: https://drive.google.com/file/d/1g2vjqbUMA74Pb0EIJ8swwCwGqixmyicF/view?usp=sharing
+external_link: https://drive.google.com/file/d/1sfywlpDcCYTmHBwp-nXKyaim8dWJ5DG-/view?usp=sharing
 tags:
   - Hugo
   - Wowchemy
