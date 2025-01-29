@@ -1,6 +1,7 @@
 ---
 title: Algoritma Pemrograman
 summary: buku pembelajaran semester 1
+external_link: https://www.youtube.com/
 date: 2023-10-24
 type: docs
 math: false
