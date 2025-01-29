@@ -3,7 +3,6 @@ title: Algoritma Pemrograman
 summary: buku pembelajaran semester 1
 date: 2023-10-24
 type: docs
-url: https://www.youtube.com/watch?v=GBcY1XWZ7gw
 math: false
 tags:
   - Python
