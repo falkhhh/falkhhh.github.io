@@ -130,14 +130,7 @@ awards:
     icon: radarsemarang
     summary: |
       Fallkhan Sahruzzaki is a talented and enthusiastic young athlete in the sport of Tarung Derajat, particularly in the art of movement category. In 2020, Fallkhan achieved a remarkable milestone by securing 4th place in the Regional Student Sports Week (POPDA), which was held virtually. This competition presented a unique challenge, as the virtual format required exceptional adaptability in terms of technique, visual performance, and precision of movements evaluated through a digital medium. Through dedication and rigorous training, Fallkhan showcased an impressive combination of strength, speed, and fluidity—key elements of Tarung Derajat.Despite facing tough competition, this achievement highlights Fallkhan’s outstanding ability to maintain focus and consistency. It serves as a stepping stone for further honing his skills and achieving even greater success in the future. This accomplishment reflects Fallkhan’s resilient character, making him an inspiration for peers and other young athletes.
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      
 ---
 
 ## About Me
