@@ -1,7 +1,7 @@
 ---
 title: pitch deck
 date: 2023-10-26
-external_link: https://www.canva.com/design/DAGJBnVrXc0/ClPDm4MKcPLIZ2Ba7zrSGQ/view?utm_content=DAGJBnVrXc0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf2cdcc2987
+external_link: https://docs.google.com/spreadsheets/d/1i9EtN874QVZkyzFj8Bglmopkfjn8X9eUNymftPQ5CTY/edit?gid=813391386#gid=813391386
 tags:
   - Hugo
   - Wowchemy
