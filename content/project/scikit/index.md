@@ -1,13 +1,13 @@
 ---
-title: pitch deck
-date: 2023-10-26
-external_link: https://docs.google.com/spreadsheets/d/1i9EtN874QVZkyzFj8Bglmopkfjn8X9eUNymftPQ5CTY/edit?usp=sharing
+title: data vizualism
+date: 2024-11-25
+external_link: https://falkhhh.github.io/Visualisasi-Data-UAS/
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-"analyze existing data"
+"analyze existing data!"
 
 <!--more-->
