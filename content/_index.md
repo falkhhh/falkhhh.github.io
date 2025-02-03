@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
