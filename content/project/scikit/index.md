@@ -1,13 +1,13 @@
 ---
-title: data vizualism
+title: hello health
 date: 2024-11-25
-external_link: https://falkhhh.github.io/Visualisasi-Data-UAS/
+external_link: https://www.canva.com/design/DAGJBnVrXc0/gcIJsC7Pw5FjipYZhJvFzg/edit
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-"analyze existing data!"
+"health platform"
 
 <!--more-->
